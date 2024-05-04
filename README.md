@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tabinda Noor</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">A passionate MERN Stack Developer from Faisalabad </h3>
 
 <img src="https://onlinegrad.syracuse.edu/wp-content/uploads/sites/36/2021/02/kid-friendly-coding-languages-03.jpg?w=768" align="center" width="full"/>
 
