@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/its_t_noor" target="blank"><img src="https://img.shields.io/twitter/follow/its_t_noor?logo=twitter&style=for-the-badge" alt="its_t_noor" /></a> </p>
 
-- 🔭 I’m currently doing **my final year Project.**
+- 🔭 I’m currently doing **MERN Stack Projects.**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **MERN projects**
+- 👯 I’m looking to collaborate on **MERN projects along with Next JS and React Native**
 
 - 🤝 I’m looking for help with **MERN Stack with AI Projects**
 
@@ -23,7 +23,9 @@
 
 - 📝 I regularly write articles on [https://brighttechvisions.com/cybersecurity-experts/](https://brighttechvisions.com/cybersecurity-experts/)
 
-- 💬 Ask me about **I am a Front-End developer**
+- 💬 Ask me about **Tech**
+
+- 😁 Funny About me **I don't like tea**
 
 - 📫 How to reach me **tabindanoor415@gmail.com**
 
