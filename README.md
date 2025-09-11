@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Tabinda Noor</h1>
-<h3 align="center">A passionate MERN Stack Developer from Faisalabad </h3>
+<h1 align="center">Hi, I'm Tabinda Noor</h1>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan </h3>
 
 <img src="https://onlinegrad.syracuse.edu/wp-content/uploads/sites/36/2021/02/kid-friendly-coding-languages-03.jpg?w=768" align="center" width="full"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tabindanoor&label=Profile%20views&color=0e75b6&style=flat" alt="tabindanoor" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabindanoor" alt="tabindanoor" /></a> </p>
-<p align="left"> <a href="https://twitter.com/its_t_noor" target="blank"><img src="https://img.shields.io/twitter/follow/its_t_noor?logo=twitter&style=for-the-badge" alt="its_t_noor" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tabindanoor&label=Profile%20views&color=0e75b6&style=flat" alt="tabindanoor" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabindanoor" alt="tabindanoor" /></a> </p>
+<p align="center"> <a href="https://twitter.com/its_t_noor" target="blank"><img src="https://img.shields.io/twitter/follow/its_t_noor?logo=twitter&style=for-the-badge" alt="its_t_noor" /></a> </p>
 - 🔭 I’m currently doing **MERN Stack Projects.**
 - 🌱 I’m currently learning **MERN Stack Development**
-- 👯 I’m looking to collaborate on **MERN projects along with Next JS and React Native**
+- 👯 I’m looking to collaborate on **MERN projects along with Next JS**
 - 🤝 I’m looking for help with **MERN Stack with AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tabindanoor](https://github.com/Tabindanoor)
 
-- 📝 I regularly write articles on [https://brighttechvisions.com/cybersecurity-experts/](https://brighttechvisions.com/cybersecurity-experts/)
-
 - 💬 Ask me about **Tech**
-
-- 😁 Funny About me **I don't like tea**
 
 - 📫 How to reach me **tabindanoor415@gmail.com**
 
