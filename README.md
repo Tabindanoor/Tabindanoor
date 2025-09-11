@@ -5,10 +5,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tabindanoor&label=Profile%20views&color=0e75b6&style=flat" alt="tabindanoor" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabindanoor" alt="tabindanoor" /></a> </p>
 <p align="center"> <a href="https://twitter.com/its_t_noor" target="blank"><img src="https://img.shields.io/twitter/follow/its_t_noor?logo=twitter&style=for-the-badge" alt="its_t_noor" /></a> </p>
-- 🔭 I’m currently doing **MERN Stack Projects.**
-- 🌱 I’m currently learning **MERN Stack Development**
-- 👯 I’m looking to collaborate on **MERN projects along with Next JS**
-- 🤝 I’m looking for help with **MERN Stack with AI Projects**
+- 🔭 I’m currently doing MERN Stack Projects.
+- 🌱 I’m currently learning **MERN Stack Development
+- 👯 I’m looking to collaborate on **MERN projects along with Next JS
+- 🤝 I’m looking for help with **MERN Stack with AI Projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tabindanoor](https://github.com/Tabindanoor)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tabindanoor415@gmail.com**
 
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
+<img align="center" alt="coding" width="full" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
 
 <h3 align="left">Connect with me:</h3>
